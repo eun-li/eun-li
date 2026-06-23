@@ -16,11 +16,13 @@
 
 **About me** &nbsp;✦
 
-- ◾ &nbsp; cs student. dev in progress
-- ◾ &nbsp; full-stack, systems, clean code idk
-- ◾ &nbsp; games ▪️ motorcycles ▪️ music ▪️ the whole thing
-- ◾ &nbsp; fueled by energy drinks & bad decisions
-- ◾ &nbsp; in a stu-dying arc rn
+**About me** &nbsp;✦
+
+- ◾ &nbsp; CS student 
+- ◾ &nbsp; Interested in systems, clean architecture, and code that holds up under pressure
+- ◾ &nbsp; Work across the full stack
+- ◾ &nbsp; Currently sharpening skills in Cybersecurity and backend systems
+- ◾ &nbsp; Freelance part time Graphic Designer
 
 <br clear="right"/>
 
