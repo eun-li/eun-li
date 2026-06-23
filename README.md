@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.tenor.com/Yl_fISK2oEcAAAAM/chibi-anime-boy.gif" width="180" alt="chibi anime gif" />
 
-<img align="right" src="vertical-banner.jpg" width="220" alt="banner" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="vertical-banner.jpg" width="220" alt="banner" />
 
 ```
 ┌─────────────────────────────────┐
