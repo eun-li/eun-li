@@ -16,8 +16,6 @@
 
 **About me** &nbsp;✦
 
-**About me** &nbsp;✦
-
 - ◾ &nbsp; CS student 
 - ◾ &nbsp; Interested in systems, clean architecture, and code that holds up under pressure
 - ◾ &nbsp; Work across the full stack
