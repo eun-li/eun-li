@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-<img src="download.gif" width="291px" alt="anime gif" />
+<img src="download.jpg" alt="anime gif" />
 <br/><br/>
   
 ### ✦ &nbsp; Tech Stack &nbsp; ✦
