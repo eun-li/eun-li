@@ -13,9 +13,7 @@
 <img align="right" src="vertical-banner.jpg" width="220" alt="banner" />
 
 ```
-┌─────────────────────────────────┐
-│         eun / README.md         │
-└─────────────────────────────────┘
+▌eun — README.md
 ```
 
 **About me** &nbsp;✦
