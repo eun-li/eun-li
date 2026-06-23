@@ -27,7 +27,8 @@
 ---
 <div align="center">
 <img src="denji-reading.gif" width="280" alt="anime gif" />
-<br/>
+<br/><br/>
+  
 ### ✦ &nbsp; Tech Stack &nbsp; ✦
 
 <!-- Languages -->
