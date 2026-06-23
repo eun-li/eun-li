@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-<img src="denji-reading.gif" width="280" alt="anime gif" />
+<img src="download.gif" alt="anime gif" />
 <br/><br/>
   
 ### ✦ &nbsp; Tech Stack &nbsp; ✦
