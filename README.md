@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/eun-li/eun-li/main/assets/vertical-banner.jpg" width="220" alt="banner" />
+
 <div align="center">
 
 <!-- Typing SVG -->
