@@ -50,7 +50,8 @@
 ---
 
 <div align="center">
-✦   github stats   ✦
+  
+### ✦ &nbsp; Github Stats &nbsp; ✦
 
 <br/>
 <!-- Main Stats + Top Languages -->
@@ -91,13 +92,6 @@
   </tr>
 </table>
 <br/>
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eun-li&bg_color=0d1117&color=8b949e&line=484f58&point=c9d1d9&area=true&area_color=21262d&hide_border=true&radius=12" />
-<br/><br/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=eun-li&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
 
 ---
 
