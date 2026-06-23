@@ -16,11 +16,11 @@
 
 **About me** &nbsp;✦
 
-- ◾ &nbsp; CS student & aspiring dev
-- 🕶️ &nbsp; Into full-stack, systems & clean architecture
-- 🎱 &nbsp; Games ▪️ R3 ▪️ Music
-- 🖤 &nbsp; Powered by energy drinks and late-night commits
-- 🪶 &nbsp; Currently learning something new every day
+- ◾ &nbsp; cs student. dev in progress
+- ◾ &nbsp; full-stack, systems, clean code idk
+- ◾ &nbsp; games ▪️ motorcycles ▪️ music ▪️ the whole thing
+- ◾ &nbsp; fueled by energy drinks & bad decisions
+- ◾ &nbsp; in a stu-dying arc rn
 
 <br clear="right"/>
 
