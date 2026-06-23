@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9C0D6&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eun...+%E2%9C%A8;A+developer+nerd+%26+hot+head+enthusiast;Building+cool+things+one+commit+at+a+time+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9C0D6&center=true&vCenter=true&width=600&lines=Hey!+I'm+Eun...+&#9831;A+developer+nerd+%26+hot+head+enthusiast;Building+cool+things+one+commit+at+a+time+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,11 +17,11 @@
 
 **About me** &nbsp;✦
 
-- 🎓 &nbsp; CS student & aspiring dev
-- 💻 &nbsp; Into back-end, systems & clean architecture
-- 🎮 &nbsp; Games • Anime • Music •
-- ☕ &nbsp; Powered by energy drink and late-night commits
-- 🌸 &nbsp; Currently learning something new every day
+- ◾ &nbsp; CS student & aspiring dev
+- 🕶️ &nbsp; Into full-stack, systems & clean architecture
+- 🎱 &nbsp; Games ▪️ R3 ▪️ Music
+- 🖤 &nbsp; Powered by energy drinks and late-night commits
+- 🪶 &nbsp; Currently learning something new every day
 
 <br clear="right"/>
 
