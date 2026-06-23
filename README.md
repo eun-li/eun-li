@@ -17,7 +17,7 @@
 **About me** &nbsp;✦
 
 - ◾ &nbsp; CS student 
-- ◾ &nbsp; Interested in systems, clean architecture, and code that holds up under pressure
+- ◾ &nbsp; Interested in systems, clean architecture, and modern UI/UX
 - ◾ &nbsp; Work across the full stack
 - ◾ &nbsp; Currently sharpening skills in Cybersecurity and backend systems
 - ◾ &nbsp; Freelance part time Graphic Designer
