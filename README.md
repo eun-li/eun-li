@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="hy" width="180" alt="chibi anime gif" />
-
 <img align="right" src="vertical-banner.jpg" width="220" alt="banner" />
 
 ```
@@ -27,13 +25,9 @@
 <br clear="right"/>
 
 ---
-
 <div align="center">
-
 <img src="denji-reading.gif" width="280" alt="anime gif" />
-
-<br/><br/>
-
+<br/>
 ### ✦ &nbsp; Tech Stack &nbsp; ✦
 
 <!-- Languages -->
