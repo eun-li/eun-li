@@ -1,4 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/eun-li/eun-li/main/assets/vertical-banner.jpg" width="220" alt="banner" />
 
 <div align="center">
 
@@ -10,6 +9,8 @@
 ---
 
 <img align="right" src="https://media.tenor.com/Yl_fISK2oEcAAAAM/chibi-anime-boy.gif" width="180" alt="chibi anime gif" />
+
+<img align="right" src="https://raw.githubusercontent.com/eun-li/eun-li/main/assets/vertical-banner.jpg" width="220" alt="banner" />
 
 ```
 ┌─────────────────────────────────┐
