@@ -26,7 +26,7 @@
 
 ---
 <div align="center">
-<img src="download.jpg" height="200" alt="anime gif" />
+<img src="eun.jpg" height="200" alt="anime gif" />
 <br/><br/>
   
 ### ✦ &nbsp; Tech Stack &nbsp; ✦
