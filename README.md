@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/tQnS4pCBMFUAAAAM/good-morning-2025.gif" width="280" alt="good morning gif" />
+<img src="https://media.tenor.com/Wd5GWNTY6HQAAAAM/seeking-eye-anime.gif" width="280" alt="anime gif" />
 
 <br/><br/>
 
