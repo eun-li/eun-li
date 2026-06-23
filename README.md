@@ -50,20 +50,53 @@
 ---
 
 <div align="center">
+✦   github stats   ✦
 
-### ✦ &nbsp; GitHub Stats &nbsp; ✦
-
+<br/>
+<!-- Main Stats + Top Languages -->
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eun-li&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6&icon_color=A9C0D6" />
+      <img src="https://github-readme-stats.vercel.app/api?username=eun-li&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_radius=12" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eun-li&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eun-li&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_radius=12" />
     </td>
   </tr>
 </table>
+<br/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=eun-li&hide_border=true&background=0d1117&stroke=21262d&ring=8b949e&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&border_radius=12" />
+<br/><br/>
 
+<!-- Mini Stat Cards Row -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/commits-847-c9d1d9?style=flat-square&labelColor=0d1117&color=21262d&logoColor=8b949e" />
+      <br/><sub><b>commits</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/pull%20requests-63-c9d1d9?style=flat-square&labelColor=0d1117&color=21262d" />
+      <br/><sub><b>pull reqs</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/issues-41-c9d1d9?style=flat-square&labelColor=0d1117&color=21262d" />
+      <br/><sub><b>issues</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/stars-128-c9d1d9?style=flat-square&labelColor=0d1117&color=21262d" />
+      <br/><sub><b>stars</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eun-li&bg_color=0d1117&color=8b949e&line=484f58&point=c9d1d9&area=true&area_color=21262d&hide_border=true&radius=12" />
+<br/><br/>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=eun-li&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
