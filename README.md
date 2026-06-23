@@ -67,9 +67,16 @@
 
 ### ✦ &nbsp; GitHub Stats &nbsp; ✦
 
-![Eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun-li&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6&icon_color=A9C0D6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun-li&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eun-li&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6&icon_color=A9C0D6" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eun-li&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9C0D6" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
